@@ -5,5 +5,6 @@
 ## Features
 
 ## Author
+
 - Barrett Amsrud
-- April 2017
+- April 2017 - Present
