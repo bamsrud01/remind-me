@@ -1,15 +1,16 @@
 //  Import libraries
 import React, { Component } from 'react';
-import { View, Text } from 'react-native';
+import { View } from 'react-native';
 
 //  Import components
+import Header from './components/Header';
 
 //  Create App component
 class App extends Component {
   render() {
     return (
       <View>
-        <Text>Remind Me</Text>
+        <Header headerText="Remind Me!" />
       </View>
     );
   }
